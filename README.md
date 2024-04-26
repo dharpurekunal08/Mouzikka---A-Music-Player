@@ -1,6 +1,6 @@
 **Hare Krishna!**
 
-# Mouzikka---A-Music-Player
+# Mouzikka - A Music Player
 
 Mouzikka is a simple music player application built using Python and Tkinter GUI toolkit. It allows users to manage their music library, play songs, create playlists, and more.
 
