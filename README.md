@@ -38,4 +38,4 @@ Before running the Music Player application, make sure you have the following so
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dharpurekunal08/Mouzikka - A Music Player.git
+   git clone https://github.com/dharpurekunal08/Mouzikka-A-Music-Player.git
