@@ -27,11 +27,22 @@ Before running the Music Player application, make sure you have the following so
 
 ## Usage
 
-- Adding Songs: Click on the "Add Song" button to add songs to your library. Supported file formats: MP3.
-- Playing Songs: Select a song from the library and click on the "Play" button to start playback.
-- Volume Control: Adjust the volume slider to control the volume level.
-- Creating Playlists: Click on the "Create Playlist" button to create a new playlist and add songs to it.
-- Favorites: Mark songs as favorites by clicking on the star icon.
+- **Adding Songs**: Click on the "Add Song" button to add songs to your library. Supported file formats: MP3.
+- **Playing Songs**: Select a song from the library and click on the "Play" button to start playback.
+- **Volume Control**: Adjust the volume slider to control the volume level.
+- **Creating Playlists**: Click on the "Create Playlist" button to create a new playlist and add songs to it.
+- **Favorites**: Mark songs as favorites by clicking on the star icon.
+
+
+## Installation
+
+1. **Download the executable file:** Download the `mysetup.exe` file from the [releases page](https://github.com/dharpurekunal08/Mouzikka-A-Music-Player.git) of this repository.
+
+2. **Run the installer:** Double-click the downloaded `mysetup.exe` file to start the installation process.
+
+3. **Follow the installation wizard:** Follow the on-screen instructions to complete the installation. The application will be installed in the default location on your computer.
+
+4. **Launch the application:** Once the installation is complete, you can launch the Music Player Application from the Start menu or desktop shortcut.
 
 
 ## Setup
